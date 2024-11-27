@@ -1,4 +1,4 @@
-## Hi there 👋 Im Matías Miranda Cabrera.
+## Hi there 👋 I'm Matías Miranda Cabrera.
 
 - 📫 How to reach me:
   <div style="text-align: right;">
