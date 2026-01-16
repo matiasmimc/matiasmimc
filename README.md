@@ -7,7 +7,6 @@
     </a>
   </div>
 
-- 🌱 I’m currently learning TensorFlow
 <!--
 **matiasmimc/matiasmimc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
